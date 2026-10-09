@@ -1,0 +1,16 @@
+{
+    "news": [
+        {
+            "title": "Test News Title",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London,"
+        },
+        {
+            "title": "Test News title 2",
+            "description": "Lorem Ipsum is simply dummy text of the"
+        },
+        {
+            "title":"Test News Title 3",
+            "description":"Lorem Ipsum abcd"
+        }
+    ]
+}
